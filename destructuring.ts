@@ -10,3 +10,4 @@ console.log(lastname);// Muriuki
 const num1 = [1,2]
 const[a,b]=num1
 console.log(b);
+//In array destructuring we map the values to corresponding index of the value in the array
